@@ -91,18 +91,14 @@ func showAds():
 Can you help me?
 --------------
 Download my games and rate them! it helps me a lot.
-Link:
 * https://play.google.com/store/apps/developer?id=ZUBCOVSOFT&hl=pt-PT
 
-From stars in my godot plugins and my adaptations for version 3.2:
-Link:
+From stars in my godot plugins and my adaptations for version 3.2+.
 * https://github.com/search?q=user%3AAlissonRichardy+Godot
 
 
 --------------
-```
-adb logcat -s godot
-```
+
 
 References
 -------------
@@ -115,3 +111,7 @@ Based on the works of:
 License
 -------------
 MIT license
+
+```
+adb logcat -s godot
+```
