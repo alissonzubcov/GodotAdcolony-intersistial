@@ -1,3 +1,11 @@
+/**
+	MIT License.
+	Alisson Zubcov.
+	My part was just adapting it to work with version 3.2 of the Godot Engine.
+	I dedicate the credits (which are theirs) to kloder-games.
+	
+ **/
+
 package org.godotengine.godot;
 
 import com.adcolony.sdk.*;
